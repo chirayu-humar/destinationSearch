@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.outer {
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  width: 400px;
+  padding: 20px;
+}
+.image {
+  width: 100%;
+}
